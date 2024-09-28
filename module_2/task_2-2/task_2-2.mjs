@@ -2,8 +2,13 @@
 import { initPrintOut, printOut, newLine } from "../../common/script/utils.mjs";
 initPrintOut(document.getElementById("txtOut"));
 
-printOut("--- Part 1 ----------------------------------------------------------------------------------------------");
+printOut("--- Oppgave 1 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
+let a = 2;
+let b = 4;
+let c = 3;
+let d = 6;
+let x = a + (c * (a - b) * d;
 printOut("Replace this with you answer!");
 printOut(newLine);
 
