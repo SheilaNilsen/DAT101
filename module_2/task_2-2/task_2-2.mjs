@@ -39,9 +39,9 @@ document.getElementById("demo").innerHTML = z;
 <div class = "text">
 printOut("Convert 25 metres and 34 centimetres to inches");
 <div class = "text">
-printOut(25 meters is equal to 984.252);
+printOut("25 meters is equal to 984.252 inches");
 <div class = "text">
-printOut(34 centimeters is equal to 13.386);
+printOut("34 centimeters is equal to 13.386 inches");
 
 printOut("--- Part 3 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
