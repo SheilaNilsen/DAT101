@@ -26,8 +26,7 @@ printOut(" modified expression, 2 + (3 * (2 - 4) ) * 6 = -34 ");
 printOut(" in javascript expressions shows as a + (c * (a - b) ) * d = -34");
 <div class = "text">
 printOut(" by using the declared variables in calculation we got the same result of the expressions as -34.");
-</html>
-</body>
+
 printOut("--- Oppgave 2 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
 printOut("Replace this with you answer!");
@@ -73,3 +72,5 @@ printOut("--- Part 10 ----------------------------------------------------------
 /* Put your code below here!*/
 printOut("Replace this with you answer!");
 printOut(newLine);
+</body>
+</html>
