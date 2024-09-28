@@ -4,12 +4,20 @@ initPrintOut(document.getElementById("txtOut"));
 
 printOut("--- Oppgave 1 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
+<p id= "calculation"></p>
+  
+<script>
 let a = 2;
 let b = 4;
 let c = 3;
 let d = 6;
 let x = a + (c * (a - b) * d;
-printOut("Replace this with you answer!");
+x = -34
+  </script>
+  
+  </body>
+  </html>
+printOut("Replace with you answer"!);
 printOut(newLine);
 
 printOut("--- Part 2 ----------------------------------------------------------------------------------------------");
