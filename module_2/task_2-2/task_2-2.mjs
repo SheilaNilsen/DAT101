@@ -12,7 +12,7 @@ let b = 4;
 let c = 3;
 let d = 6;
 let x = a + (c * (a - b) * d;
-x = -34
+x = -34;
 
 document.getElementById("calculation").innerHTML = x;  
   </script>
