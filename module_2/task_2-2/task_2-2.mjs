@@ -28,9 +28,20 @@ printOut(" in javascript expressions shows as a + (c * (a - b) ) * d = -34");
 printOut(" by using the declared variables in calculation we got the same result of the expressions as -34.");
 
 printOut("--- Oppgave 2 ----------------------------------------------------------------------------------------------");
+<p id= "Sum of two different units into inches"></p>
 /* Put your code below here!*/
-printOut("Replace this with you answer!");
-printOut(newLine);
+<script>
+let x = 984.252;
+let y = 13.386;
+let z = x + y;
+document.getElementById("demo").innerHTML = z;
+</script>
+<div class = "text">
+printOut("Convert 25 metres and 34 centimetres to inches");
+<div class = "text">
+printOut(25 meters is equal to 984.252);
+div class = "text">
+printOut(34 centimeters is equal to 13.386);
 
 printOut("--- Part 3 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
