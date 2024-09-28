@@ -17,6 +17,7 @@ document.getElementById("calculation").innerHTML = x;
   </script>
    
 <html>
+<body>
 <div class = "text">
 printOut(" original expression, 2 + 3 * 2 - 4 * 6 = -34 ");
 <div class = "text">
