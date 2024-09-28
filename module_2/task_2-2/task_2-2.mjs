@@ -1,7 +1,8 @@
 "use strict";
 import { initPrintOut, printOut, newLine } from "../../common/script/utils.mjs";
 initPrintOut(document.getElementById("txtOut"));
-
+<html>
+<body>
 printOut("--- Oppgave 1 ----------------------------------------------------------------------------------------------");
 <p id= "calculation"></p>
 /* Put your code below here!*/  
@@ -16,8 +17,6 @@ x = -34
 document.getElementById("calculation").innerHTML = x;  
   </script>
    
-<html>
-<body>
 <div class = "text">
 printOut(" original expression, 2 + 3 * 2 - 4 * 6 = -34 ");
 <div class = "text">
